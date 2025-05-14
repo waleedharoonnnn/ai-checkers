@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 Checkers AI Agent
 
 An intelligent agent that plays **Checkers** using **Q-Learning** and **Alpha-Beta Pruning**, featuring a smooth **Pygame GUI**. Train it, test it, or play against it — your call!
@@ -27,3 +28,6 @@ tensorflow==2.16.1
 # 3. Run the game
 python src/checkers-AI/main.py
 ```
+=======
+# ai-checkers
+>>>>>>> 031747d8eddd61c24fcb66ad6dae03cdb0231f00
